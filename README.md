@@ -11,6 +11,7 @@ Templates for Onyx Boox Air 2 Plus
 
 SWOT analysis
 Meeteing (Multipage? Agenda Participants /2 columns/  Date Location - Minutes)
+Whiteboard
 
 ## Params
 
