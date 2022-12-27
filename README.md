@@ -16,3 +16,10 @@ Meeteing (Multipage? Agenda Participants /2 columns/  Date Location - Minutes)
 
 Size: 4.72"x6.29"
 Margins: 0
+
+## HM EI Colors
+
+DarkGrey: 2C2E30, 44 46 48
+Red: E30613, 227 6 19
+White: FFFFFF, 255 255 255
+DarkGreen: 00818C, 0 219 140
