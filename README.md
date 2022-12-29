@@ -11,11 +11,6 @@ Templates for Onyx Boox Air 2 Plus
 
 ## TODO
 
-SWOT analysis
-Meeteing (Multipage? Agenda Participants /2 columns/  Date Location - Minutes)
-Whiteboard
-Heti feladatok
-
 ## Params
 
 Size: 6.19"x8.25"
