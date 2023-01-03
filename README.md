@@ -15,6 +15,7 @@ Templates for Onyx Boox Air 2 Plus
 
 Size: 6.19"x8.25"
 Margins: 0
+Resolution: 227 dpi, 1404x1872
 
 ## HM EI Colors
 
