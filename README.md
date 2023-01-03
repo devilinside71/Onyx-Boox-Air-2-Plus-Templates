@@ -30,5 +30,11 @@ c:\Users\laszl\AppData\Roaming\Microsoft\Templates\
 
 ## PowerPoint Export
 
+### Windows
+
 Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\PowerPoint\Options
 ExportBitmapResolution 227
+
+### Mac
+
+Change at EXPORT
