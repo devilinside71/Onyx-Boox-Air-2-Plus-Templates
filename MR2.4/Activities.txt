@@ -1,0 +1,89 @@
+Step 00.	Előkészítés	5
+00.1	Rendszer ellenőrzés és laptopok és szerverek előkészítése	5
+00.2	vCenter Certificate megújítás	5
+00.3	Admin linkek előkészítése	5
+00.4	Tools telepítés az update laptopra	5
+00.5	ESXi SSH engedélyezés	5
+Step 01.	MSA	6
+Step 02.	iLO/BIOS	6
+02.1	iLO	6
+02.1.1	iLO4	6
+02.1.2	iLO3	7
+02.1.3	iLO2	7
+02.1.4	iLO1	7
+02.2	BIOS	8
+02.2.1	Srv4	8
+02.2.2	Srv3	8
+02.2.3	Srv2	8
+02.2.4	Srv1	8
+Step 03.	VMWare	9
+03.1	Jelszó beállítás	9
+03.2	Backup	9
+03.3	vCenter upgrade 1	9
+03.4	vCenter upgrade 2	9
+03.5	ESXi	10
+03.5.1	ESXI3	10
+03.5.2	ESXi2	10
+03.5.3	ESXi1	10
+03.5.4	Config	10
+03.6	License	11
+03.7	VMware Tools upgrade	11
+03.8	VMRC telepítés	11
+Step 04.	UPS	11
+Step 05.	Windows szerverek	12
+05.1	Network adapters	12
+05.1.1	Fájlok másolása	12
+05.1.2	DCTL1 update	12
+05.1.3	CSD1-RECC1 update	12
+05.1.4	WRKF1-I4DP1-BACK1 update	13
+Step 06.	Microsoft Deployment Tool Update	13
+06.1	Előkészítés	13
+06.2	Script futtatása	13
+06.3	I4D Explorer update	13
+06.4	Updating configuration Internet Information Services (IIS)	14
+06.5	Deployment Services	14
+06.5.1	Update drivers for deployment	14
+06.5.2	Add drivers to boot images	15
+06.5.3	Load the new MDT	15
+06.5.4	GPO Update	15
+06.5.5	WSUS telepítés	15
+06.5.6	WSUS beállítás	16
+06.6	Fortion Workflow (Server Side)	16
+06.7	Fortion Datashare (Server Side)	16
+06.8	Fortion IMINT KDB (Server Side)	17
+06.9	I4D: Proxy rules	17
+Step 07.	Linux szerverek	17
+07.1	Copy files	17
+07.2	System update	18
+07.3	Fortion i4D (Server Side)	18
+07.4	Fortion Electronic Warfare Analyst (Server Side)	19
+07.5	Fortion Media Mining (Server Side)	19
+07.6	iKDB (Server Side)	19
+Step 08.	Supervision (CheckMk update)	19
+Step 09.	SYSTEM DOC UPDATE	20
+Step 10.	Cartographic layers data copy	20
+Step 11.	VEEAM Backup Upgrade	20
+Step 12.	BOOTABLE USB FLASH DRIVE: RUFUS.EXE	21
+Step 13.	DEPLOYING A WORKSTATION WITH THE MDT	21
+Step 14.	VAMT Installation on an Internet Workstation	22
+Step 15.	Teszt felhasználók létrehozása	22
+Step 16.	I4D LICENSE	22
+Step 17.	Licenses	23
+17.1	Luciad Release 2019.1	23
+17.2	CSD License	23
+17.3	Vocapia License	23
+17.4	Systran License	24
+17.5	ILO License	24
+17.6	ESXi License	24
+Step 18.	Fortion Media Mining (Collection Workstation)	24
+18.1	BIOS update	25
+18.2	Application Update	25
+Step 19.	Post-Installation Configurations	25
+19.1	MediaMining Collection Workstation	25
+19.2	MediaMining Exploitation	26
+19.3	IMINT KDB – RECCE user management	26
+19.4	Shared Context.cml file	26
+Step 20.	Application links	26
+Step 21.	LockScreen GPO	27
+
+ 
