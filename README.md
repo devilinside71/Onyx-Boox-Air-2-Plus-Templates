@@ -11,6 +11,9 @@ Templates for Onyx Boox Air 2 Plus
 
 ## TODO
 
+Heti feladatos PDF (Linkes)
+Filofax? (Linkes)
+
 ## Params
 
 Size: 6.19"x8.25"
